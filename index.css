@@ -21,7 +21,9 @@ body {
   transition: 0.5s;
   padding-top: 40px;
 }
-
+.website {
+    text-align: center;
+}
 .sidepanel a {
   padding: 6px 6px 6px 32px;
   text-decoration: none;
