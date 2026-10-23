@@ -27,7 +27,6 @@ body {
     border-radius: 10%;
 }
 .site {
-    width: 200px;
     height: auto;
     box-shadow: 0 12px 13px rgba(0, 0, 0, 0.3);
     transition: transform 0.3s ease;
