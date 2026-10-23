@@ -24,6 +24,13 @@ body {
 .website {
     text-align: center;
 }
+.site {
+    text-align: center;
+    box-shadow: 0 12px 13px rgba(0, 0, 0, 0.3);
+    border-radius: 10%;
+    width: 200px;
+    transition: transform 0.3s ease;
+}
 .sidepanel a {
   padding: 6px 6px 6px 32px;
   text-decoration: none;
