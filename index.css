@@ -22,11 +22,11 @@ body {
   padding-top: 40px;
 }
 .website {
-    margin: 0;
-    text-align: center;
-    width: 20px;
-    border-radius: 10%;
-    padding-left: 2rem;
+   display: block;
+   margin: auto;
+   margin-top: 40px;
+   width: 230px;
+   border-radius: 20%;
 }
 .site {
     box-shadow: 0 12px 13px rgba(0, 0, 0, 0.3);
