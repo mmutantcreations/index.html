@@ -155,14 +155,12 @@ body {
 ul {
   
   margin:0;
-  padding:0;
   font-family: 'Finger Paint', sans-serif;
   margin-top: 100%;
   left:50%;
   transform: translate(-50%);
   font-size: 1.2em;
   display:flex;
-  padding:60px;
   padding-left: 2rem;
 }
 ul li {
