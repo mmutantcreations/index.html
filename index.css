@@ -26,6 +26,7 @@ body {
     text-align: center;
     width: 100px;
     border-radius: 10%;
+    padding-left: 2rem;
 }
 .site {
     box-shadow: 0 12px 13px rgba(0, 0, 0, 0.3);
@@ -150,7 +151,7 @@ body {
     margin-inline: auto;
     text-align: center;
     box-sizing: border-box;
-  }
+    
 ul {
   
   margin:0;
@@ -162,6 +163,7 @@ ul {
   font-size: 1.2em;
   display:flex;
   padding:60px;
+  padding-left: 2rem;
 }
 ul li {
   list-style:none;
