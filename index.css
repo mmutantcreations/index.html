@@ -25,7 +25,7 @@ body {
    display: block;
    margin: auto;
    margin-top: 40px;
-   width: 30px;
+   width: 100px;
    border-radius: 20%;
 }
 .website:hover {
