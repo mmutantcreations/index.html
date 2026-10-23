@@ -149,15 +149,16 @@ body {
     box-sizing: border-box;
     
 ul {
-  
   margin:0;
+  padding:0;
   font-family: 'Finger Paint', sans-serif;
-  margin-top: 100%;
+  position:absolute;
+  top: 410%;
   left:50%;
-  transform: translate(-50%);
+  transform:translate(-50%, -50%);
   font-size: 1.2em;
   display:flex;
-  padding-left: 2rem;
+  padding:60px;
 }
 ul li {
   list-style:none;
