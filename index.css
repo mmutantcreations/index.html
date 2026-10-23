@@ -28,10 +28,6 @@ body {
    width: 230px;
    border-radius: 20%;
 }
-.site {
-    box-shadow: 0 12px 13px rgba(0, 0, 0, 0.3);
-    transition: transform 0.3s ease;
-}
 .site:hover {
     transform: scale(1.1);
 }
